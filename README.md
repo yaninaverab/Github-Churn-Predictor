@@ -215,7 +215,7 @@ POST /predict
 ```json
 {
   "churned": false,
-  "churn_probability": 0.42
+  "churn_probability": 0.31
 }
 ```
 
